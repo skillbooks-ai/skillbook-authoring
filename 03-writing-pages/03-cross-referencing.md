@@ -23,37 +23,31 @@ Do not cross-reference when:
 
 Use standard relative markdown links:
 
-```markdown
-For details on page structure, see [Anatomy of a Content Page](../03-writing-pages/01-anatomy-of-a-content-page.md).
+    For details on page structure, see
+    Anatomy of a Content Page → ../03-writing-pages/01-anatomy-of-a-content-page.md
 
-This builds on the [four-tier framework](01-four-tiers.md).
-```
+    This builds on the four-tier framework → 01-four-tiers.md
 
-**Within the same section:** use just the filename — `[Page](02-page.md)`
+**Within the same section:** use just the filename, e.g. `[Title](same-dir-file)`
 
-**Across sections:** use the relative path — `[Page](../02-section/01-page.md)`
+**Across sections:** include the relative path, e.g. `[Title](../other-section/file)`
 
 ## Placement
 
 - **Inline** — when the reference is part of the explanation: "This requires a valid
-  `package.json` (see [package.json setup](../04-project/01-package-json.md))."
-- **End of section** — when listing related pages: "See also: [Tags](03-tags.md),
-  [Validation](../05-tooling/01-validation.md)."
+  `package.json` (see `package.json setup` in the project section)."
+- **End of section** — when listing related pages: "See also: Tags and Validation pages."
 - **Navigation footer** — Previous/Next/Section/Home links at the page bottom.
 
 ## Navigation Footer Convention
 
 Every content page should end with:
 
-```markdown
----
-
-[Previous: Title](prev.md) | [Section](00-overview.md) | [Next: Title](next.md) | [Home](../SKILL.md)
-```
+    ← Previous: Title | ↑ Section | Next: Title → | 🏠 Home
 
 - First page in a section: omit "Previous"
 - Last page in a section: omit "Next"
-- `00-overview.md` files: just `[Home](../SKILL.md)`
+- `00-overview.md` files: just a Home link
 
 ## Validation
 

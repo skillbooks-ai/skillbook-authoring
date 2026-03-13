@@ -1,10 +1,16 @@
 {
   "name": "skillbook-authoring",
   "version": "1.0.0",
-  "description": "A practical guide to building high-quality skillbooks — for AI agents helping humans create structured knowledge bases.",
+  "description": "A practical guide to building high-quality skillbooks \u2014 for AI agents helping humans create structured knowledge bases.",
   "author": "skillbooks-ai",
   "license": "CC-BY-4.0",
-  "keywords": ["skillbook", "authoring", "ai-agents", "knowledge-base", "content-strategy"],
+  "keywords": [
+    "skillbook",
+    "authoring",
+    "ai-agents",
+    "knowledge-base",
+    "content-strategy"
+  ],
   "private": true,
   "devDependencies": {
     "@skillbooks/cli": "^1.0.0"
@@ -18,7 +24,7 @@
     "author": "Skillbooks",
     "contact": "https://github.com/skillbooks-ai/skillbook-authoring/discussions",
     "server": "https://skillbooks.ai",
-    "pages": 30,
+    "pages": "30",
     "price": "$0.00",
     "language": "en",
     "verified": false,

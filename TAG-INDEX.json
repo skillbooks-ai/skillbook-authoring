@@ -1,162 +1,557 @@
-{
-  "atomic-content": [
-    "02-content-strategy/02-deciding-page-boundaries.md"
-  ],
-  "authoring": [
-    "05-quality/02-common-mistakes.md",
-    "06-workflows/01-converting-existing-content.md",
-    "06-workflows/02-automated-conversion.md",
-    "06-workflows/04-multi-agent-authoring.md"
-  ],
-  "authoring-process": [
-    "01-getting-started/01-authoring-workflow.md"
-  ],
-  "best-practices": [
-    "03-writing-pages/01-anatomy-of-a-content-page.md"
-  ],
-  "cli": [
-    "04-using-the-cli/01-project-setup.md",
-    "04-using-the-cli/02-validation.md",
-    "04-using-the-cli/03-mechanical-tools.md",
-    "04-using-the-cli/04-publishing.md"
-  ],
-  "content-pages": [
-    "03-writing-pages/01-anatomy-of-a-content-page.md"
-  ],
-  "content-selection": [
-    "01-getting-started/02-choosing-source-material.md"
-  ],
-  "content-strategy": [
-    "03-writing-pages/04-tag-discipline.md",
-    "05-quality/03-page-length-tuning.md",
-    "06-workflows/01-converting-existing-content.md"
-  ],
-  "content-types": [
-    "02-content-strategy/04-content-types.md"
-  ],
-  "contributing": [
-    "07-contributing/01-how-to-contribute.md"
-  ],
-  "cross-references": [
-    "03-writing-pages/03-cross-referencing.md"
-  ],
-  "decomposition": [
-    "02-content-strategy/01-analyzing-source-material.md"
-  ],
-  "dependency-ordering": [
-    "02-content-strategy/03-section-organization.md"
-  ],
-  "directory-structure": [
-    "01-getting-started/03-setting-up-your-project.md"
-  ],
-  "evaluation": [
-    "01-getting-started/02-choosing-source-material.md"
-  ],
-  "gutenberg": [
-    "06-workflows/02-automated-conversion.md"
-  ],
-  "init": [
-    "01-getting-started/03-setting-up-your-project.md"
-  ],
-  "linking": [
-    "03-writing-pages/03-cross-referencing.md"
-  ],
-  "navigation": [
-    "03-writing-pages/02-writing-section-overviews.md",
-    "03-writing-pages/03-cross-referencing.md"
-  ],
-  "overview": [
-    "01-getting-started/01-authoring-workflow.md"
-  ],
-  "overview-pages": [
-    "03-writing-pages/02-writing-section-overviews.md"
-  ],
-  "page-boundaries": [
-    "02-content-strategy/02-deciding-page-boundaries.md"
-  ],
-  "page-length": [
-    "02-content-strategy/02-deciding-page-boundaries.md"
-  ],
-  "page-structure": [
-    "03-writing-pages/01-anatomy-of-a-content-page.md",
-    "03-writing-pages/04-tag-discipline.md",
-    "05-quality/03-page-length-tuning.md"
-  ],
-  "planning": [
-    "02-content-strategy/01-analyzing-source-material.md"
-  ],
-  "project-setup": [
-    "01-getting-started/03-setting-up-your-project.md",
-    "04-using-the-cli/01-project-setup.md"
-  ],
-  "publishing": [
-    "04-using-the-cli/03-mechanical-tools.md",
-    "04-using-the-cli/04-publishing.md",
-    "05-quality/01-self-review-checklist.md"
-  ],
-  "quality": [
-    "04-using-the-cli/02-validation.md",
-    "05-quality/01-self-review-checklist.md",
-    "05-quality/02-common-mistakes.md",
-    "05-quality/03-page-length-tuning.md",
-    "06-workflows/03-iterative-authoring.md"
-  ],
-  "reference-works": [
-    "02-content-strategy/04-content-types.md"
-  ],
-  "regulations": [
-    "02-content-strategy/04-content-types.md"
-  ],
-  "related-pages": [
-    "03-writing-pages/03-cross-referencing.md"
-  ],
-  "scaffolding": [
-    "01-getting-started/03-setting-up-your-project.md"
-  ],
-  "section-naming": [
-    "02-content-strategy/03-section-organization.md"
-  ],
-  "section-organization": [
-    "02-content-strategy/03-section-organization.md"
-  ],
-  "section-overviews": [
-    "03-writing-pages/02-writing-section-overviews.md"
-  ],
-  "source-analysis": [
-    "02-content-strategy/01-analyzing-source-material.md"
-  ],
-  "source-material": [
-    "01-getting-started/02-choosing-source-material.md"
-  ],
-  "splitting": [
-    "02-content-strategy/02-deciding-page-boundaries.md"
-  ],
-  "structure": [
-    "02-content-strategy/03-section-organization.md"
-  ],
-  "tags": [
-    "03-writing-pages/04-tag-discipline.md",
-    "04-using-the-cli/03-mechanical-tools.md"
-  ],
-  "technical-manuals": [
-    "02-content-strategy/04-content-types.md"
-  ],
-  "tutorials": [
-    "02-content-strategy/04-content-types.md"
-  ],
-  "validation": [
-    "04-using-the-cli/02-validation.md",
-    "05-quality/01-self-review-checklist.md",
-    "06-workflows/03-iterative-authoring.md"
-  ],
-  "workflow": [
-    "01-getting-started/01-authoring-workflow.md",
-    "06-workflows/01-converting-existing-content.md",
-    "06-workflows/02-automated-conversion.md",
-    "06-workflows/03-iterative-authoring.md",
-    "06-workflows/04-multi-agent-authoring.md"
-  ],
-  "writing": [
-    "03-writing-pages/01-anatomy-of-a-content-page.md"
-  ]
-}
+[
+  {
+    "tag": "-",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/01-project-setup.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md"
+    ]
+  },
+  {
+    "tag": ",",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/01-project-setup.md",
+      "04-using-the-cli/02-validation.md",
+      "04-using-the-cli/03-mechanical-tools.md",
+      "04-using-the-cli/04-publishing.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/02-common-mistakes.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/03-iterative-authoring.md",
+      "06-workflows/04-multi-agent-authoring.md"
+    ]
+  },
+  {
+    "tag": "[",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/01-project-setup.md",
+      "04-using-the-cli/02-validation.md",
+      "04-using-the-cli/03-mechanical-tools.md",
+      "04-using-the-cli/04-publishing.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/02-common-mistakes.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/03-iterative-authoring.md",
+      "06-workflows/04-multi-agent-authoring.md",
+      "07-contributing/01-how-to-contribute.md"
+    ]
+  },
+  {
+    "tag": "]",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/01-project-setup.md",
+      "04-using-the-cli/02-validation.md",
+      "04-using-the-cli/03-mechanical-tools.md",
+      "04-using-the-cli/04-publishing.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/02-common-mistakes.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/03-iterative-authoring.md",
+      "06-workflows/04-multi-agent-authoring.md",
+      "07-contributing/01-how-to-contribute.md"
+    ]
+  },
+  {
+    "tag": "a",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/02-validation.md",
+      "04-using-the-cli/03-mechanical-tools.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/02-common-mistakes.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/03-iterative-authoring.md",
+      "06-workflows/04-multi-agent-authoring.md"
+    ]
+  },
+  {
+    "tag": "b",
+    "pages": [
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "04-using-the-cli/03-mechanical-tools.md",
+      "04-using-the-cli/04-publishing.md",
+      "05-quality/01-self-review-checklist.md",
+      "06-workflows/02-automated-conversion.md",
+      "07-contributing/01-how-to-contribute.md"
+    ]
+  },
+  {
+    "tag": "c",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/01-project-setup.md",
+      "04-using-the-cli/02-validation.md",
+      "04-using-the-cli/03-mechanical-tools.md",
+      "04-using-the-cli/04-publishing.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md",
+      "07-contributing/01-how-to-contribute.md"
+    ]
+  },
+  {
+    "tag": "d",
+    "pages": [
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "04-using-the-cli/02-validation.md",
+      "05-quality/01-self-review-checklist.md",
+      "06-workflows/03-iterative-authoring.md"
+    ]
+  },
+  {
+    "tag": "e",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/01-project-setup.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md"
+    ]
+  },
+  {
+    "tag": "f",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/03-iterative-authoring.md",
+      "06-workflows/04-multi-agent-authoring.md"
+    ]
+  },
+  {
+    "tag": "g",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/03-mechanical-tools.md",
+      "04-using-the-cli/04-publishing.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/02-common-mistakes.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/04-multi-agent-authoring.md",
+      "07-contributing/01-how-to-contribute.md"
+    ]
+  },
+  {
+    "tag": "h",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/04-content-types.md",
+      "04-using-the-cli/03-mechanical-tools.md",
+      "04-using-the-cli/04-publishing.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/02-common-mistakes.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/04-multi-agent-authoring.md"
+    ]
+  },
+  {
+    "tag": "i",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "04-using-the-cli/01-project-setup.md",
+      "04-using-the-cli/02-validation.md",
+      "04-using-the-cli/03-mechanical-tools.md",
+      "04-using-the-cli/04-publishing.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/02-common-mistakes.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/03-iterative-authoring.md",
+      "06-workflows/04-multi-agent-authoring.md",
+      "07-contributing/01-how-to-contribute.md"
+    ]
+  },
+  {
+    "tag": "j",
+    "pages": [
+      "01-getting-started/03-setting-up-your-project.md",
+      "04-using-the-cli/01-project-setup.md"
+    ]
+  },
+  {
+    "tag": "k",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/03-iterative-authoring.md",
+      "06-workflows/04-multi-agent-authoring.md"
+    ]
+  },
+  {
+    "tag": "l",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "04-using-the-cli/01-project-setup.md",
+      "04-using-the-cli/02-validation.md",
+      "04-using-the-cli/03-mechanical-tools.md",
+      "04-using-the-cli/04-publishing.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/02-common-mistakes.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/03-iterative-authoring.md",
+      "06-workflows/04-multi-agent-authoring.md"
+    ]
+  },
+  {
+    "tag": "m",
+    "pages": [
+      "01-getting-started/02-choosing-source-material.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md"
+    ]
+  },
+  {
+    "tag": "n",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/02-validation.md",
+      "04-using-the-cli/03-mechanical-tools.md",
+      "04-using-the-cli/04-publishing.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/02-common-mistakes.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/03-iterative-authoring.md",
+      "06-workflows/04-multi-agent-authoring.md",
+      "07-contributing/01-how-to-contribute.md"
+    ]
+  },
+  {
+    "tag": "o",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/01-project-setup.md",
+      "04-using-the-cli/02-validation.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/02-common-mistakes.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/03-iterative-authoring.md",
+      "06-workflows/04-multi-agent-authoring.md",
+      "07-contributing/01-how-to-contribute.md"
+    ]
+  },
+  {
+    "tag": "p",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/01-project-setup.md",
+      "04-using-the-cli/03-mechanical-tools.md",
+      "04-using-the-cli/04-publishing.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/03-page-length-tuning.md"
+    ]
+  },
+  {
+    "tag": "q",
+    "pages": [
+      "04-using-the-cli/02-validation.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/02-common-mistakes.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/03-iterative-authoring.md"
+    ]
+  },
+  {
+    "tag": "r",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/01-project-setup.md",
+      "05-quality/02-common-mistakes.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/03-iterative-authoring.md",
+      "06-workflows/04-multi-agent-authoring.md",
+      "07-contributing/01-how-to-contribute.md"
+    ]
+  },
+  {
+    "tag": "s",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/01-project-setup.md",
+      "04-using-the-cli/03-mechanical-tools.md",
+      "04-using-the-cli/04-publishing.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md"
+    ]
+  },
+  {
+    "tag": "t",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/01-project-setup.md",
+      "04-using-the-cli/02-validation.md",
+      "04-using-the-cli/03-mechanical-tools.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/02-common-mistakes.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/03-iterative-authoring.md",
+      "06-workflows/04-multi-agent-authoring.md",
+      "07-contributing/01-how-to-contribute.md"
+    ]
+  },
+  {
+    "tag": "u",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/02-deciding-page-boundaries.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/01-project-setup.md",
+      "04-using-the-cli/02-validation.md",
+      "04-using-the-cli/03-mechanical-tools.md",
+      "04-using-the-cli/04-publishing.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/02-common-mistakes.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/03-iterative-authoring.md",
+      "06-workflows/04-multi-agent-authoring.md",
+      "07-contributing/01-how-to-contribute.md"
+    ]
+  },
+  {
+    "tag": "v",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "01-getting-started/02-choosing-source-material.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "03-writing-pages/03-cross-referencing.md",
+      "04-using-the-cli/02-validation.md",
+      "05-quality/01-self-review-checklist.md",
+      "06-workflows/03-iterative-authoring.md"
+    ]
+  },
+  {
+    "tag": "w",
+    "pages": [
+      "01-getting-started/01-authoring-workflow.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/01-anatomy-of-a-content-page.md",
+      "03-writing-pages/02-writing-section-overviews.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/02-automated-conversion.md",
+      "06-workflows/03-iterative-authoring.md",
+      "06-workflows/04-multi-agent-authoring.md"
+    ]
+  },
+  {
+    "tag": "y",
+    "pages": [
+      "01-getting-started/03-setting-up-your-project.md",
+      "02-content-strategy/01-analyzing-source-material.md",
+      "02-content-strategy/03-section-organization.md",
+      "02-content-strategy/04-content-types.md",
+      "03-writing-pages/04-tag-discipline.md",
+      "04-using-the-cli/02-validation.md",
+      "05-quality/01-self-review-checklist.md",
+      "05-quality/02-common-mistakes.md",
+      "05-quality/03-page-length-tuning.md",
+      "06-workflows/01-converting-existing-content.md",
+      "06-workflows/03-iterative-authoring.md"
+    ]
+  },
+  {
+    "tag": "z",
+    "pages": [
+      "02-content-strategy/03-section-organization.md"
+    ]
+  }
+]

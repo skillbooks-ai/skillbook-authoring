@@ -29,7 +29,7 @@ Supporting content, edge cases, exceptions.
 
 ---
 
-[Previous: Title](prev.md) | [Section](00-overview.md) | [Next: Title](next.md) | [Home](../SKILL.md)
+← Previous | ↑ Section | Next → | 🏠 Home
 ```
 
 ## What Makes a Good Page
