@@ -25,9 +25,21 @@ AI agents that assist humans with skillbook creation. Whether the human is conve
 
 This skillbook follows the exact format it teaches. Browse its structure to see proper section organization, page boundaries, cross-references, tagging, and navigation — all implemented as described.
 
+## Related
+
+- **[Skillbook Format Spec](https://github.com/skillbooks-ai/skillbook)** — the standard that defines the skillbook format
+- **[Creator Tools CLI](https://github.com/skillbooks-ai/creator-tools)** — validate, index, and publish skillbooks from the command line
+
 ## Quick Start
 
 Read the [SKILL.md](SKILL.md) for the full table of contents and navigation instructions.
+
+Install the companion CLI tools:
+```bash
+git clone https://github.com/skillbooks-ai/creator-tools.git
+export PATH="$PWD/creator-tools:$PATH"
+skillbook validate ./my-book
+```
 
 ## License
 
