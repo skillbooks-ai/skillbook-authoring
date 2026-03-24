@@ -22,8 +22,10 @@ Run through this checklist:
 
 You need an account on the skillbook server before publishing.
 
+Sign up at [skillbooks.ai/signup](https://skillbooks.ai/signup) to get your API key, then authenticate:
+
 ```bash
-skillbook signup          # create an account
+skillbook login           # authenticate with your API key
 skillbook credits         # check your publishing credits
 ```
 

@@ -9,7 +9,7 @@ metadata:
   skillbook-author: "Skillbooks"
   skillbook-contact: "https://github.com/skillbooks-ai/skillbook-authoring/discussions"
   skillbook-server: "https://skillbooks.ai"
-  skillbook-version: "1.0.0"
+  skillbook-version: "1.1.0"
   skillbook-pages: "30"
   skillbook-price: "$0.00"
   skillbook-tags: "true"
@@ -75,6 +75,7 @@ read sections in order.
 - [01-self-review-checklist.md](05-quality/01-self-review-checklist.md) — Pre-publish quality gate
 - [02-common-mistakes.md](05-quality/02-common-mistakes.md) — Frequent errors and how to fix them
 - [03-page-length-tuning.md](05-quality/03-page-length-tuning.md) — When to split vs merge pages
+- [04-skill-eval.md](05-quality/04-skill-eval.md) — Proving your skillbook's value with automated A/B testing
 
 ### 06 — Workflows
 - [00-overview.md](06-workflows/00-overview.md)
