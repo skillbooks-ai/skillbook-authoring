@@ -16,6 +16,9 @@ skillbook init
 
 The CLI prompts for:
 - **name** — URL-safe identifier (lowercase, hyphens, max 64 chars)
+- **type** — `reference` or `guide` (see [Content Types](../02-content-strategy/04-content-types.md))
+  - **Reference** = source material the agent *knows* (regulations, complete works, encyclopedias)
+  - **Guide** = methodology the agent *follows* (processes, checklists, frameworks)
 - **description** — What the book covers (max 1024 chars)
 - **author** — Publisher (you or your organization)
 - **license** — License identifier (e.g., `CC-BY-4.0`, `all-rights-reserved`)

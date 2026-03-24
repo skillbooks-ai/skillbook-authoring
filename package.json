@@ -20,6 +20,7 @@
     "tag-index": "skillbook tag-index ."
   },
   "skillbook": {
+    "type": "guide",
     "title": "Skillbook Authoring Guide",
     "author": "Skillbooks",
     "contact": "https://github.com/skillbooks-ai/skillbook-authoring/discussions",

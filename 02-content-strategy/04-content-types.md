@@ -4,6 +4,35 @@ tags: [content-types, regulations, tutorials, reference-works, technical-manuals
 
 # Handling Different Content Types
 
+Every skillbook has a **type** — either `reference` or `guide`. This is the most
+fundamental decision you make when creating a skillbook.
+
+## The Two Types
+
+### Reference (`"reference"`)
+Source material the agent *knows*. Dictionaries, encyclopedias, regulatory texts,
+complete works, API documentation. The agent retrieves and presents this knowledge.
+
+**Examples:** EPA 608 regulations, EU AI Act, Shakespeare's complete works
+
+### Guide (`"guide"`)
+Methodology the agent *follows*. Processes, frameworks, checklists, style guides.
+The agent applies this knowledge to help users accomplish tasks.
+
+**Examples:** thrv JTBD methodology, this authoring guide, exam prep strategies
+
+### Why Only Two?
+Everything collapses to one of these. The power is in **composition** — pairing a
+reference + guide creates capabilities neither has alone. Example: FDA Food Code
+(reference) + Exam Prep Methodology (guide) = food safety study assistant.
+
+Set the type in both `SKILL.md` frontmatter (`skillbook-type`) and `package.json`
+(`skillbook.type`). They must stay in sync.
+
+---
+
+## Content Decomposition by Source Type
+
 Different source material demands different decomposition strategies. Here's how to
 approach the most common types.
 
